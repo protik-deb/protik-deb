@@ -88,18 +88,15 @@ Khulna University, Bangladesh
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=protik-deb&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Protik's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=protik-deb&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-
-<br />
 
 <img width="70%" src="https://streak-stats.demolab.com?user=protik-deb&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
+
+See my [GitHub repositories](https://github.com/protik-deb?tab=repositories) and contribution activity on my [GitHub profile](https://github.com/protik-deb).
 
 ---
 
